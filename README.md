@@ -232,8 +232,8 @@ If you find this work or codebase helpful in your research, please cite:
 ```bibtex
 @article{farouqe2026tool,
   title={Tool Retrieval under Distractor APIs with Memory-Based Recovery},
-  author={Farouqe, Hemal and Islam, Sheikh Mainul and Maria, Tanjida Sultana},
-  journal={Antigravity Research},
+  author={Hemal Farouqe, Sheikh Mainul Islam and Tanjida Sultana Maria},
+  journal={Academic Research},
   year={2026}
 }
 ```
